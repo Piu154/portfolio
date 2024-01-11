@@ -16,8 +16,6 @@ const Home = () => {
                 I'm a developer, holding a master degree in 
                 computer science.
                 I'm  very passoinate about learning new technologies.
-                I actually find fun and enjoyment when I learn something
-                new and code those things.
                 Currently, I worked in technologies like react,tailwind,Material UI,
                 Next Js continue.....
             </p>
